@@ -14,8 +14,7 @@
 
 ## ""Hello world!" programm C++
 
-'''
-
+'''C++
 #include <iostream>
 
 int main() {
@@ -23,7 +22,6 @@ int main() {
     std::cout<<"Hello world!"<<std::endl;
 
 }
-
 '''
 
 
