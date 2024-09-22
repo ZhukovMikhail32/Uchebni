@@ -12,4 +12,13 @@
 
 3. Освоить навыки работы в github.
 
+## ""Hello world!" programm C++
+
+'''#include <iostream>
+
+int maim() {
+    std::cout<<"Hello world!"<<std::endl;
+}
+'''
+
 
