@@ -14,10 +14,13 @@
 
 ## ""Hello world!" programm C++
 
-'''#include <iostream>
+'''
+#include <iostream>
 
 int maim() {
+
     std::cout<<"Hello world!"<<std::endl;
+
 }
 '''
 
