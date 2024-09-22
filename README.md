@@ -15,13 +15,15 @@
 ## ""Hello world!" programm C++
 
 '''
+
 #include <iostream>
 
-int maim() {
+int main() {
 
     std::cout<<"Hello world!"<<std::endl;
 
 }
+
 '''
 
 
