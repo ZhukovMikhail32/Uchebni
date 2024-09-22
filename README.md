@@ -14,13 +14,10 @@
 
 ## ""Hello world!" programm C++
 
-'''C++
-#include <iostream>
-
+'''
+\#include <iostream>
 int main() {
-
     std::cout<<"Hello world!"<<std::endl;
-
 }
 '''
 
